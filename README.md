@@ -87,7 +87,7 @@ Welcome to my AI & ML project showcase! This repository contains four applied ma
 ## 🧠 Author
 **Naresh Kumar**  
 AI/ML Enthusiast | Data Science Explorer  
-[🔗 https://www.linkedin.com/in/naresh-kumar-s-804a112a5?https://www.linkedin.com/in/naresh-kumar-s-804a112a5?](#) • [💼 Portfolio](#) • [✉️ Contact](#)
+[🔗 https://www.linkedin.com/in/naresh-kumar-s-804a112a5?](#) • [💼 Portfolio](#) • [✉️ Contact](#)
 
 ---
 
